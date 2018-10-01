@@ -46,8 +46,6 @@ def pythagoras_theorem(ap=1,bp=1):
     print("The third side is",c)
 
 
-    
-
 ##pythagoras_theorem(3,4)
 
 def add_numbers(x,y):
